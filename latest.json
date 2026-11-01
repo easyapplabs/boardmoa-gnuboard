@@ -1,9 +1,9 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "date": "2026-11-01",
-  "zip": "releases/appapi-gnu-1.0.31.zip",
-  "sha256": "2b58f151b4948e510809cf21fa26154b19702f14ded6c71d5d3237b21896ec6c",
-  "signature": "hxl/yxENUrRjLPNeRjDim8Sqod4pt2fUbkDV4ccOdsoQ39e2EUMHEUKMbHJVCM7/45midcnENWfKCgo2W8A/jk19qmotDVQDHzMp8HOVcCJVIsLOZDeDtl1PNQvPEiIRjlw4S7oIEMffOwd8NYYbEnzXdeqIsvWaET0mPx4Bp6dTgeRvyytO3oJmSE/qmYTn07gct3pkq6/A51GGt4can62EoLVvTEQy2fU10P7JpLPy+GAaou419lc7M0OPOF3MNVaqoBiPExb/slcbmQUu2l7puuoRMYz40nwQDTApyFDB9G0QYnX4CoUHTw0QD/eHYMwQ34iyT6klpORoxvzHqbQYcb9LZK/q6OwxUPcRQhYDkYo3Ew0xKYio/I187O7ktAFzXQ8Q5sd40tvcTTdtU6diSZ0C0GLHclhyvAiRdmD4t+SakFKJtmVkkJ5sUpnG1Hj9upfvPlQRxv0VfFbt70lK7XgL+PBiysLupzB4CEt1N6jNj7BXFVDbM6qQXiMR",
+  "zip": "releases/appapi-gnu-1.0.32.zip",
+  "sha256": "cb72566e06bc036f5266f9e925795e974baa46856aa7a7aaf87f5bdb94eb15e6",
+  "signature": "u/xEMIMgQetNykpi5vboS1GTf7X2vT0rE/oTIx/YM08HvqmcigyWjB3w0iRkyFeiO1U0BnOBQrAE6NDRQSL1/KmFDdDzlSm2yD9WlPInfKlxUTt2uOyV8RUBljbE11EHIeMu+5YGSveyBtTO0PXTJr0XSG4UH4sh+Yo6FPs+RPdaIvosJAmbPIOwlGhPK/2xxvbaNShcFRZiXqXuXmhA6R49K0FpUjs1FsZ/cff1e/UI7ArJluYCL7HAzokuMv6ZrZYNeehRX8X5sbG5qIpOWfqLfIfDJTow97dHhmZ5CzBQPMz9MqDOYfAwZn0WwnLm6y9/M3oR85NxymVD+mlycDQcQhxPRdPR8zCra20VJ0EFEm9nlGKyEeRGlQ1NFIq8wrh4W4PikpBYQnV96r0Uc7dAsW9lsQSXR55apCGfm1f53zSF4nbuN8rYV9Mkiadg4k3BzWj4IJcDLbMqqNURduB6EoUOWQ35wNO8Zuf4Eu2yxu7MaxhskgsA7Ee8A0RW",
   "min_php": "7.0",
-  "notes": "공개 저장소를 회사 조직(github.com/easyapplabs)으로 옮겼습니다"
+  "notes": "번호만 올림(XE·Rhymix 모듈과 같은 번호)"
 }
