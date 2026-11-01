@@ -3,9 +3,9 @@
 스마트폰 게시판 앱 **게시판모아**가 그누보드5 사이트의 게시판을 읽고 쓸 수 있게 하는 플러그인입니다.
 
 - 앱 받기: [iPhone·iPad (App Store)](https://apps.apple.com/app/id6826114071) · [Android (Google Play)](https://play.google.com/store/apps/details?id=com.easyapplabs.boardmoa)
-- 최신 버전: **1.0.30 (시험판)** · 내려받기: [releases/appapi-gnu-1.0.30.zip](releases/appapi-gnu-1.0.30.zip) · [latest.json](latest.json)
+- 최신 버전: **1.0.31 (시험판)** · 내려받기: [releases/appapi-gnu-1.0.31.zip](releases/appapi-gnu-1.0.31.zip) · [latest.json](latest.json)
 - 설치한 뒤에는 관리 화면(관리자 → 환경설정 → 게시판모아 앱)의 [업데이트 확인]으로 새 버전을 받습니다.
-- XE 1.11·Rhymix 사이트용 모듈은 [boardmoa-appapi](https://github.com/colombo7/boardmoa-appapi), XE3 는 [boardmoa-appapi-xe3](https://github.com/colombo7/boardmoa-appapi-xe3), WordPress 는 [boardmoa-wordpress](https://github.com/colombo7/boardmoa-wordpress) 에 있습니다.
+- XE 1.11·Rhymix 사이트용 모듈은 [boardmoa-appapi](https://github.com/easyapplabs/boardmoa-appapi), XE3 는 [boardmoa-appapi-xe3](https://github.com/easyapplabs/boardmoa-appapi-xe3), WordPress 는 [boardmoa-wordpress](https://github.com/easyapplabs/boardmoa-wordpress) 에 있습니다.
 
 
 > **시험판입니다.** 그누보드 연동은 아직 시험 중입니다.
@@ -22,7 +22,7 @@
 
 웹에서 하는 것: 회원가입, 회원정보 수정·탈퇴, 쪽지 보내기(그누보드가 회원에게도 캡챠를 요구합니다. reCAPTCHA v2 사이트는 앱에서).
 
-XE 1.11·Rhymix 사이트는 [boardmoa-appapi](https://github.com/colombo7/boardmoa-appapi), XE3 는 [boardmoa-appapi-xe3](https://github.com/colombo7/boardmoa-appapi-xe3), WordPress 는 [boardmoa-wordpress](https://github.com/colombo7/boardmoa-wordpress) 를 설치합니다.
+XE 1.11·Rhymix 사이트는 [boardmoa-appapi](https://github.com/easyapplabs/boardmoa-appapi), XE3 는 [boardmoa-appapi-xe3](https://github.com/easyapplabs/boardmoa-appapi-xe3), WordPress 는 [boardmoa-wordpress](https://github.com/easyapplabs/boardmoa-wordpress) 를 설치합니다.
 
 ## 필요한 것
 - 그누보드 5.4 이상 (5.6.43 에서 시험), PHP 7.0 이상
