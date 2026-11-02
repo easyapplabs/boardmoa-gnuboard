@@ -1,9 +1,9 @@
 {
-  "version": "1.0.32",
-  "date": "2026-11-01",
-  "zip": "releases/appapi-gnu-1.0.32.zip",
-  "sha256": "cb72566e06bc036f5266f9e925795e974baa46856aa7a7aaf87f5bdb94eb15e6",
-  "signature": "u/xEMIMgQetNykpi5vboS1GTf7X2vT0rE/oTIx/YM08HvqmcigyWjB3w0iRkyFeiO1U0BnOBQrAE6NDRQSL1/KmFDdDzlSm2yD9WlPInfKlxUTt2uOyV8RUBljbE11EHIeMu+5YGSveyBtTO0PXTJr0XSG4UH4sh+Yo6FPs+RPdaIvosJAmbPIOwlGhPK/2xxvbaNShcFRZiXqXuXmhA6R49K0FpUjs1FsZ/cff1e/UI7ArJluYCL7HAzokuMv6ZrZYNeehRX8X5sbG5qIpOWfqLfIfDJTow97dHhmZ5CzBQPMz9MqDOYfAwZn0WwnLm6y9/M3oR85NxymVD+mlycDQcQhxPRdPR8zCra20VJ0EFEm9nlGKyEeRGlQ1NFIq8wrh4W4PikpBYQnV96r0Uc7dAsW9lsQSXR55apCGfm1f53zSF4nbuN8rYV9Mkiadg4k3BzWj4IJcDLbMqqNURduB6EoUOWQ35wNO8Zuf4Eu2yxu7MaxhskgsA7Ee8A0RW",
+  "version": "1.0.33",
+  "date": "2026-11-02",
+  "zip": "releases/appapi-gnu-1.0.33.zip",
+  "sha256": "75050c2fc92a15550b4b44abdec3c87cb34552d78e1be4a653c741df92c60393",
+  "signature": "P2Px3xs2yQFZMk1lDkgZKtezPlfi3nqvY6jaj/UvhW6e/IlZHlO4beDxcGSzXj7V+Hlx1oCdMoZcNZ/6I/0wZ07j9mNYhkAB3eRF9f05A+S3vV5Pa+6wbqN2kJ3Wm0gznDzYhE7Nc8X/U2G920zq9f2pRSIw+VtL8NU0OnM79rRoJxPXnbWT/XlrS7WV3F/wS3BHgH7Pd2OuM3sGnI2w/N77+o5E3rBqfPJXnDta0mcvA+KTUnl+/Xc8dWdTUlcw3vKGojS9rWp1HBSpb+PD449ZC6rvxOPw7hUOpxqX30dFyIB37Rm+e2Ju7WLqmTvRZXOnBBFGc9uFzEDgFSwR5NxhhOoJ1gsjR6LCiV67cVHU5Rr3Mxrjp5Qf2iLMKiCQO1p8hu5dzUtBMwXAYxdJ0gX45vY4ZWtQ3r3rN2s5ptCwJkxgsvJ0bHGgVB5OE9urTsJsmkveiuNFyQj9daR1+Th0uG8EpC47MQceVYH2z5GgR2jFq/0zszFkdgFjkyU+",
   "min_php": "7.0",
-  "notes": "번호만 올림(XE·Rhymix 모듈과 같은 번호)"
+  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
 }
