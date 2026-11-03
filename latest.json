@@ -1,9 +1,9 @@
 {
-  "version": "1.0.33",
-  "date": "2026-11-02",
-  "zip": "releases/appapi-gnu-1.0.33.zip",
-  "sha256": "75050c2fc92a15550b4b44abdec3c87cb34552d78e1be4a653c741df92c60393",
-  "signature": "P2Px3xs2yQFZMk1lDkgZKtezPlfi3nqvY6jaj/UvhW6e/IlZHlO4beDxcGSzXj7V+Hlx1oCdMoZcNZ/6I/0wZ07j9mNYhkAB3eRF9f05A+S3vV5Pa+6wbqN2kJ3Wm0gznDzYhE7Nc8X/U2G920zq9f2pRSIw+VtL8NU0OnM79rRoJxPXnbWT/XlrS7WV3F/wS3BHgH7Pd2OuM3sGnI2w/N77+o5E3rBqfPJXnDta0mcvA+KTUnl+/Xc8dWdTUlcw3vKGojS9rWp1HBSpb+PD449ZC6rvxOPw7hUOpxqX30dFyIB37Rm+e2Ju7WLqmTvRZXOnBBFGc9uFzEDgFSwR5NxhhOoJ1gsjR6LCiV67cVHU5Rr3Mxrjp5Qf2iLMKiCQO1p8hu5dzUtBMwXAYxdJ0gX45vY4ZWtQ3r3rN2s5ptCwJkxgsvJ0bHGgVB5OE9urTsJsmkveiuNFyQj9daR1+Th0uG8EpC47MQceVYH2z5GgR2jFq/0zszFkdgFjkyU+",
+  "version": "1.0.34",
+  "date": "2026-11-03",
+  "zip": "releases/appapi-gnu-1.0.34.zip",
+  "sha256": "c60c221bfb33275766a313dbf7ea9902d47a2db7e7dca2b0edc2261aab22974c",
+  "signature": "pHqCaNyCeEu7qPCyh/t9dBu2WEIB8rRmnjgZVykj46EXKvROa9k3CqAvpNEw66+aEbhzojf4DWRwX2V1yPhMeSLIzEsXiEpr5y8fwJsWPBntDns26WlSLPPzo6pnMIhZS9/1NIaeMTYd5Jar7EuC7yJPWs7jnV3WD4sfT/cvVMis/D98bqbOB0bdcHNmf099SuOBD4pc5TOl0XjdAbnBw+KFUxj74xqGOhWghffS4jr8XcJCSgCRv9FpDkmaN76nkch/3AS0UoVNYw58rYOZQyqHsB0n3C3n3C2NIxEUPF7yMOR1KaYPNk7fF4Qu4irExgJ0ClZU97CNMuOo/oKAaNrVhHUDfnlWwspR0e67lCFhjO+B2R7cTBBB9xtSBy6kQN7vJoh3vnS3NcTQqCfpFxIlJE8wIGTFMiudVmBNSGjjlELeU/C0b6VcUzsPS0qjFvAPnaGuIMzOHhe6bfPzOgLp1KxEYLfQNRpKDlL0Jj8QZ2jPG6FTi7dxOYNMmv6t",
   "min_php": "7.0",
-  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
+  "notes": "이름 메뉴 작성글 보기 복구"
 }
