@@ -1,9 +1,9 @@
 {
-  "version": "1.0.34",
+  "version": "1.0.35",
   "date": "2026-11-03",
-  "zip": "releases/appapi-gnu-1.0.34.zip",
-  "sha256": "c60c221bfb33275766a313dbf7ea9902d47a2db7e7dca2b0edc2261aab22974c",
-  "signature": "pHqCaNyCeEu7qPCyh/t9dBu2WEIB8rRmnjgZVykj46EXKvROa9k3CqAvpNEw66+aEbhzojf4DWRwX2V1yPhMeSLIzEsXiEpr5y8fwJsWPBntDns26WlSLPPzo6pnMIhZS9/1NIaeMTYd5Jar7EuC7yJPWs7jnV3WD4sfT/cvVMis/D98bqbOB0bdcHNmf099SuOBD4pc5TOl0XjdAbnBw+KFUxj74xqGOhWghffS4jr8XcJCSgCRv9FpDkmaN76nkch/3AS0UoVNYw58rYOZQyqHsB0n3C3n3C2NIxEUPF7yMOR1KaYPNk7fF4Qu4irExgJ0ClZU97CNMuOo/oKAaNrVhHUDfnlWwspR0e67lCFhjO+B2R7cTBBB9xtSBy6kQN7vJoh3vnS3NcTQqCfpFxIlJE8wIGTFMiudVmBNSGjjlELeU/C0b6VcUzsPS0qjFvAPnaGuIMzOHhe6bfPzOgLp1KxEYLfQNRpKDlL0Jj8QZ2jPG6FTi7dxOYNMmv6t",
+  "zip": "releases/appapi-gnu-1.0.35.zip",
+  "sha256": "22ca6e053af35c65d3fd7bcc5269c9a3dc1fb3438e08b33271e104c3a1981388",
+  "signature": "UPWz41I3wNBr6rtgNZo5MEnMNBSWui//rHA2TYhlm2pF9o6Sky84B+DIoOrAKq1y3QT3NWHQBKtHdx4dfs93Tl25VRgs8Gkr36G5gzWuoCEUqDuCjpeyPNEaIFrjm/GSZ+7NaLwQpsuePi/ZqfiGgbNnXrXWJzEAPZVPoYqsUWZzqNmf/rRSwsPgyBgEzGqWE5On7rtfnLeMLr8HUtX1Da8a/ZDeSrIMBmo+Y7Q7CaXrrQa8Jlwtq8Ip2e9Z+Ef3cRw2pP5EJvlV5ivf/D8PV34OgUmZtnOHhdJA0jyj73owps9UHBE+YYMim8SoHVHm6Grge8ccHiBTSfnlDPeNZJHYZPOaplYSMFUGR07aQMLSP0GutDofJtVSJmUqk7A3wEgvWYxqoM2w8jg8Eqb+nIpKwfBAQA/BQnHXKEyb509B8qEsQEyrpfUtt2FFzk1MFOVBeH5OTJb/KLXjLAyzzuN/XaXAcJfDnsBgfFsDceK+ZfHx/67JOvwinV0s6pbI",
   "min_php": "7.0",
-  "notes": "이름 메뉴 작성글 보기 복구"
+  "notes": "다른 엔진과 번호 맞춤"
 }
