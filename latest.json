@@ -1,9 +1,9 @@
 {
-  "version": "1.0.35",
-  "date": "2026-11-03",
-  "zip": "releases/appapi-gnu-1.0.35.zip",
-  "sha256": "22ca6e053af35c65d3fd7bcc5269c9a3dc1fb3438e08b33271e104c3a1981388",
-  "signature": "UPWz41I3wNBr6rtgNZo5MEnMNBSWui//rHA2TYhlm2pF9o6Sky84B+DIoOrAKq1y3QT3NWHQBKtHdx4dfs93Tl25VRgs8Gkr36G5gzWuoCEUqDuCjpeyPNEaIFrjm/GSZ+7NaLwQpsuePi/ZqfiGgbNnXrXWJzEAPZVPoYqsUWZzqNmf/rRSwsPgyBgEzGqWE5On7rtfnLeMLr8HUtX1Da8a/ZDeSrIMBmo+Y7Q7CaXrrQa8Jlwtq8Ip2e9Z+Ef3cRw2pP5EJvlV5ivf/D8PV34OgUmZtnOHhdJA0jyj73owps9UHBE+YYMim8SoHVHm6Grge8ccHiBTSfnlDPeNZJHYZPOaplYSMFUGR07aQMLSP0GutDofJtVSJmUqk7A3wEgvWYxqoM2w8jg8Eqb+nIpKwfBAQA/BQnHXKEyb509B8qEsQEyrpfUtt2FFzk1MFOVBeH5OTJb/KLXjLAyzzuN/XaXAcJfDnsBgfFsDceK+ZfHx/67JOvwinV0s6pbI",
+  "version": "1.1.1",
+  "date": "2026-11-04",
+  "zip": "releases/appapi-gnu-1.1.1.zip",
+  "sha256": "2f9a64d29e47bfab4fac5284fe1cda9dda043cd9d3ad089df5328311e2c24195",
+  "signature": "F+8gMxMVFSiS1WZM7e1OLecszvZHpCRMpTZKPOKuJA4JdMLrWlaAAaPU7GISTmclhuBw7Fq97/DxZTl6PrdQ0wIg6gb1c8tS/mphrLMTyl00H2A2DevPLpSFbHehRrTCCGMljn2HWYQBVEI7V28udkuxkD+Gd6DfEp9Tc51AJtrrnNW8vyw/hY6xwFA8s4y4OcfTlCY81CtcQ04fgrfNXKP+hUq2u+P6QQ+5KRnG9emYUyEvwkG8LQt6cLj8PDXzX+i15BVMi3elKDC5rJQKfwAcn2kxMNZvb2OVjWVqkAqGlFHkvDH+6jNxlID+nXk0321hXFPlPO89AcsyM37HsPYDQcDTEa7ifhhxYOPhAK8boBD4nc3rwz8ljVSEg0NrtWG0Ay5ogR4zX/7yXlvza3qDtyu2W/wSzlw+F8r8DodK1MTLHPcpbAAZXFfhgCc5tipgHFhwI5UK9cRfdU71kI0risxY+5X1p9O0aXy37yQiA08HAsIj4MmIrlag9eP4",
   "min_php": "7.0",
-  "notes": "다른 엔진과 번호 맞춤"
+  "notes": "앱의 '페이지로 보기'(사이트 화면을 웹과 같은 모양으로 보기)를 지원합니다."
 }
