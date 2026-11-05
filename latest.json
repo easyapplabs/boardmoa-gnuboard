@@ -1,9 +1,9 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "date": "2026-11-06",
-  "zip": "releases/appapi-gnu-1.1.5.zip",
-  "sha256": "3e3a9695b7eb626759684fc4512f5cdcb6606fdad524639d93841da7c1554f4e",
-  "signature": "fjNcFnz1OuVnoqglT2h38UwHa8WJqJKEmIyaiiasbKjhKuQhKMm3aG8QStt6KUcJG+mu8kGszBMRaro3pmCdbdVejJy1nm13C0+mjZOIfPbrut9yMY+edT/azA/tRQZP4/M9hq8gyghyL85ktY+uoFjIWBvQg4Gs853ZHJ5bHx6SmeqDEjZVCb+ttwelnJcPsnMoj/iKg8ltkNAOkU7+SB3/aZug0jqhXlYukM+iaFrEnUnxLYxieVBw3BvXsz0grJLv+qchKugMnFgzR4QH6dGML5QyvtyB1Ja2K3acFNmXLopzOHkHeOmQ0GXkbXHztLlO4QUZ7mJ+rb2pE7SJlSVpfV5WJlXJRIHJn9BRS3A6Lkwg1kacEwaYv9RcfhRE+W4Zt/UwgoAD1l9dhCpHZP1BU9rPDN/GmOkTbUVVBUWhHmHECGVAZcnn9hmjUWTkKszDpZGH0dIq/bRVHo/dNWWuMbTRJ3H9aXqCH5fb6vSOAUe04sW00ZAhLa8TrF70",
+  "zip": "releases/appapi-gnu-1.1.6.zip",
+  "sha256": "a5e33a414fbcac1461d060d3b35e79ab44177bf9eb1b0ed280327bb50bc5affe",
+  "signature": "IAeckRj/N1Cxn5ti1duLAzRbTPyHfnZF6WEc5IM2AmB4jmwA/d61E9ImuWnwOwAKcb0nTkJjEVMggjzjnClhYDxkyIOXiWPqel1CzbYtMRxyD2VUGnw/1b9VeUv8G7V2SrFDV2rDbixYC5iHi9Z6TyaqpmtzRzd42VjPnkdgV/4pydUUpucoARDHl52CYdOrgPXiwf9NwmKLgW07EzJQx3I1NG2LZs2r4XmczioBqL3ggbDrxk5Y841UL70UShA7CwX/l5+PSKYHzmsL48Pxk2vcmpu44wU58jqPSKeeZcT8v04IbXDZYhOtJByc7x6rQtTRN+D6uRh6MlWzcS/P6nP11OWlrxSeyzIMXVnNydM2elrqrOR6y1nJpBfXT36Najp1YNdM+u11bdKZhegkkIKFzZ99UhyYb3zbVaPMu8fiq3c66tQps0JxbMQKbZ2WFOijDGGdgoluwuVLFmRpoLCqawHCcDf04povmOyWAiItfXH3+lK3eBTXJWUbn0lP",
   "min_php": "7.0",
-  "notes": "라이선스 파일(LICENSE, GPL v2 이상)을 넣었습니다."
+  "notes": "번호만 올림(다른 엔진용 연결 모듈과 같은 번호)."
 }
