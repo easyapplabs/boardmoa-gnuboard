@@ -17,10 +17,11 @@
 |---|---|
 | 읽기 | 메뉴(메뉴설정의 모바일 메뉴), 게시판 목록·분류·검색, 글(첨부 사진·에디터 사진), 댓글·답글, 첨부 내려받기, 내용 페이지 |
 | 쓰기 | 글쓰기(사진 첨부)·고치기·지우기, 댓글·답글·댓글 고치기·지우기, 추천·비추천, 스크랩 |
-| 비회원 | 비밀번호로 비밀글 보기, 글·댓글 지우기. 글쓰기·고치기·댓글은 그누보드가 자동등록방지(캡챠)를 요구해 **reCAPTCHA v2** 를 쓰는 사이트만 앱에서, 기본 숫자 캡챠는 웹으로 안내 |
+| 비회원 | 비밀번호로 비밀글 보기, 글·댓글 지우기. 글쓰기·고치기·댓글은 그누보드가 요구하는 자동등록방지(기본 숫자 캡챠·reCAPTCHA v2)를 앱에서 풀고 씁니다 |
 | 내 활동 | 내가 쓴 글·댓글, 스크랩, 쪽지 읽기·지우기 |
 
-웹에서 하는 것: 회원가입, 회원정보 수정·탈퇴, 쪽지 보내기(그누보드가 회원에게도 캡챠를 요구합니다. reCAPTCHA v2 사이트는 앱에서).
+회원가입, 회원정보 수정, 쪽지 보내기(캡챠 포함)도 앱에서 합니다.
+웹에서 하는 것: 회원 탈퇴.
 
 XE 1.11·Rhymix 사이트는 [boardmoa-appapi](https://github.com/easyapplabs/boardmoa-appapi), XE3 는 [boardmoa-appapi-xe3](https://github.com/easyapplabs/boardmoa-appapi-xe3), WordPress 는 [boardmoa-wordpress](https://github.com/easyapplabs/boardmoa-wordpress) 를 설치합니다.
 
