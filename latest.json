@@ -1,9 +1,9 @@
 {
-  "version": "1.1.4",
-  "date": "2026-11-05",
-  "zip": "releases/appapi-gnu-1.1.4.zip",
-  "sha256": "97c8510c56837d401f5c97cc2879e5e0c2d52f8bc3efdbd1af215f1b80770451",
-  "signature": "ATIkKLolaLjzSwIa/Zm6RHVn7zsiaJFbNUwaIz8b445OSNgsc/wOJTFMnCd5yII2RnlX8Cq9fIwzhdMp8kxMw/7Tov+Er0a0S8VzlUJot0ldEh04nxwuJaybd8JFk0Wx3R/Onb0eekIGu6aTljwQbgY+zJNLhrASwhHxyETH4BiRADxLVlXt4IRzh/sfCSjM5SSeWlRFqwumhkVjt3ZD/GijxfhbO4n6T/QkeLGDnXYQZAi5llpoRTVEUBtSrrRiOwcD+oypzevM+FIUm6e6Hx6KZt1yxk33PrsMsjgbiNyBA5ipd0xZFd2J555zzVmquPmjadxvAsTbzb87HOF3BDW4mzzQ/ncIZxObPESwgDkfx5voM5xaD4iy2o0FN+jt1Xrfv8Key11p75QsticLQjDlUBFY5icVzTyGkOwvFERBXOj+gPoj/9xl74jt3eaPnLrxuyRHr80NGewOSnGPy0JakAIUruHRbK/jGnwFnh0MKTNa+CE+zSV75WQSf9t+",
+  "version": "1.1.5",
+  "date": "2026-11-06",
+  "zip": "releases/appapi-gnu-1.1.5.zip",
+  "sha256": "3e3a9695b7eb626759684fc4512f5cdcb6606fdad524639d93841da7c1554f4e",
+  "signature": "fjNcFnz1OuVnoqglT2h38UwHa8WJqJKEmIyaiiasbKjhKuQhKMm3aG8QStt6KUcJG+mu8kGszBMRaro3pmCdbdVejJy1nm13C0+mjZOIfPbrut9yMY+edT/azA/tRQZP4/M9hq8gyghyL85ktY+uoFjIWBvQg4Gs853ZHJ5bHx6SmeqDEjZVCb+ttwelnJcPsnMoj/iKg8ltkNAOkU7+SB3/aZug0jqhXlYukM+iaFrEnUnxLYxieVBw3BvXsz0grJLv+qchKugMnFgzR4QH6dGML5QyvtyB1Ja2K3acFNmXLopzOHkHeOmQ0GXkbXHztLlO4QUZ7mJ+rb2pE7SJlSVpfV5WJlXJRIHJn9BRS3A6Lkwg1kacEwaYv9RcfhRE+W4Zt/UwgoAD1l9dhCpHZP1BU9rPDN/GmOkTbUVVBUWhHmHECGVAZcnn9hmjUWTkKszDpZGH0dIq/bRVHo/dNWWuMbTRJ3H9aXqCH5fb6vSOAUe04sW00ZAhLa8TrF70",
   "min_php": "7.0",
-  "notes": "앱의 메뉴를 사이트 웹 메뉴와 같은 구성으로 보여 주고, 웹 화면 속 링크 주소를 바로잡았습니다."
+  "notes": "라이선스 파일(LICENSE, GPL v2 이상)을 넣었습니다."
 }
