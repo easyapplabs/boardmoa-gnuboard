@@ -1,9 +1,9 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "date": "2026-11-06",
-  "zip": "releases/appapi-gnu-1.1.6.zip",
-  "sha256": "a5e33a414fbcac1461d060d3b35e79ab44177bf9eb1b0ed280327bb50bc5affe",
-  "signature": "IAeckRj/N1Cxn5ti1duLAzRbTPyHfnZF6WEc5IM2AmB4jmwA/d61E9ImuWnwOwAKcb0nTkJjEVMggjzjnClhYDxkyIOXiWPqel1CzbYtMRxyD2VUGnw/1b9VeUv8G7V2SrFDV2rDbixYC5iHi9Z6TyaqpmtzRzd42VjPnkdgV/4pydUUpucoARDHl52CYdOrgPXiwf9NwmKLgW07EzJQx3I1NG2LZs2r4XmczioBqL3ggbDrxk5Y841UL70UShA7CwX/l5+PSKYHzmsL48Pxk2vcmpu44wU58jqPSKeeZcT8v04IbXDZYhOtJByc7x6rQtTRN+D6uRh6MlWzcS/P6nP11OWlrxSeyzIMXVnNydM2elrqrOR6y1nJpBfXT36Najp1YNdM+u11bdKZhegkkIKFzZ99UhyYb3zbVaPMu8fiq3c66tQps0JxbMQKbZ2WFOijDGGdgoluwuVLFmRpoLCqawHCcDf04povmOyWAiItfXH3+lK3eBTXJWUbn0lP",
+  "zip": "releases/appapi-gnu-1.1.7.zip",
+  "sha256": "a4528afecb01fe37b499a0a4a01d3f25f7af88ab374e6d6d92eb602285fcbd29",
+  "signature": "oLDJQ3mLH7atr8PtBP3sVwgWyBpandmWxbX3xuzGtkbfewKLmFm/vI50b8n9huRTRxI6iSPfPEM/MeLVG6Fm4DDTEDskeNhV8rCZmVOj52i8oZ6Z1GqNIFAFpv7177GRE6czZSTto1HnEw+5A/+zCfps2C9cy4lf2OOc/3MBgQ5Hj9n4BpOlPueusRZn56DdZ7iT4wulR8CrATe9DonzagNYGYsKMMHJsZpiOCYL1/rGITQiEvkSlLONVck17C1jLBGO37/3lqY1xPBdt9VqdAYp96ZC7T54sgPoN/DK+4iGMNW5R1utOe1F2goTz+JeLfGYZ5bfidjCIbpnLqgBYTC1fpIKR+dG4QqFBYzVJ/VoekyGO3o8PkhBbmztpvuDR6HbRx6s1sfMYSbnenPt9zNFjPkPt48+b5f3QQCI7rop/rkcGS5nidAczXfXxh1bQso8llHBfROsWNwkhPi5F8e3ag8eKNqflaTuq+bl972aiHO3t/FWgjhsYUb8sYBU",
   "min_php": "7.0",
-  "notes": "번호만 올림(다른 엔진용 연결 모듈과 같은 번호)."
+  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
 }
