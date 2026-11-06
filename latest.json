@@ -1,9 +1,9 @@
 {
-  "version": "1.1.14",
+  "version": "1.1.15",
   "date": "2026-11-06",
-  "zip": "releases/appapi-gnu-1.1.14.zip",
-  "sha256": "f018084aa85403c6c02b472bdb34ce15b42e2ccf09295a6d3e69e63ca508fada",
-  "signature": "JN6j/cpLpBSlqQQry2zL3ly8vBqU/aWaoP+AjKYrlI5hUS8zHMw6Ku98RLKMTVi1bAooHWkGCYn6VmhqG5fy9F8ghmnCfGcNP6nU02D13uOAfxb9veMPAp8+08EWOXnazEExmwVW9lYtVIzApV2vDxr7S/vKR65Mq6QPgLrGrv8KpgyES4Vh3X4zOBm2lZ22yYGeLH3cNsBEbLxOrTwFpiY4PA+kn7VbJKqXPP+VgiyLvVXTIxnEHTklEIsXWbfaCnsZ40E3rNQMWrKopB5monMaKMbLeIXs5inGoMcwcfXB3eApeuB2b4+ucapGCWwU9iPfhHXm+4lZRjf6o5qF4hQk7KUaszUvS+dcw1h+GJ1ybVn8uP50BJoLWMl4q75g/gTBBauVLkj6LHfuFJ7UbWDmxjMTKBRFktyfc1fwAEVQfekM6ESdfjgEc48tknDqoyPLLM2isOIk7Hk9QoCGOE3dYeXyD8znFXc51Ddh2/or1vJt97qpMAykJI/G5AYo",
+  "zip": "releases/appapi-gnu-1.1.15.zip",
+  "sha256": "d9334fe4f9d8f635002f3d3d23da80f140c0a67ae1b081e25055c0bf920360f5",
+  "signature": "LVRDbl+cMrdRV/hJwDZctJlG5QIn/cBomBAF64gcqTmrcPEKmGneihaQLvb4jkxLj6XaQgzCQ7IG566JsveLzOX7AAquBKUiwQUxdUVKhWoN7uhY0lbL2fJDfJwf2DZgoO3fvBMG5Y4mZpf+kxAtm0hRGc0ZfVWhWvIMbnypWgC0EBlb1NOK612N+obLcv2nPFY3BPZsVwWUYUVGQBsFpb0lSVnV8zOtmDxHYVBgkcBXANH8Ryz/Asu1ORs2TPefhwhBfliqb20ygWJDr2BoYmOUv7FtOC5+Wmv12N/BgrgCZrbSlqCcEof1kSLXT/w6MO3s+Ariu2ZEtcZwjWUKnYHVkBBAHT4d393adv25NGZl2Jl80PkOnNQwbXf6d6loS5NDR6kWXpsEAzkxOUj2PJXyGcpVI5jzlTWQfeHtmXriv+W5V9DFzIpfFLAotU+uipVWF7ZUMinhroQOcx8xtW/z5opz3Z2gxgGzX5VSesinO8ITlX3LC/aPpJLP9//8",
   "min_php": "7.0",
-  "notes": "앱이 보내는 X-AppApi-Token 머리말로도 로그인을 받습니다(공유 호스팅·프록시가 Authorization 을 넘기지 않는 서버 대비)"
+  "notes": "번호만 올림"
 }
