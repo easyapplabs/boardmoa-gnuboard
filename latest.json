@@ -1,9 +1,9 @@
 {
-  "version": "1.1.12",
+  "version": "1.1.13",
   "date": "2026-11-06",
-  "zip": "releases/appapi-gnu-1.1.12.zip",
-  "sha256": "75bedfd569bd5a3f2c9245026d179ea2f09dfefcefc3367e775566ce983023b5",
-  "signature": "TISr62F0sxooL+Q9UnxeO9ausqxwe7WDyg6Gmc92/6bnyrZzUSxIXBNSv1g/JfIv6TB00OEjvkBnHtgoySLflK1a9ieX0a7GtdxAo8RQSlIMbE3Ix1BknJiKK4FTtfNLaepdF0PKanfu06r9JiqFRO2kEL05na8JwG+ek+dmd0sbYut/IdftD1skihX4egTqkn2YGrPj8Uwkyk/gGqWkx1YwLrnibv5A5vjBaGXmMdVh15MXDa+ME8+VBd66Z95ho08LpbIyXnIk3XQQKks+YeXcwo4VKjoL6dQK7IKScUaC/Oul518eLfiVPx7B0hDlLKC0eXMCv22GrQNAhiq77tHwQl1cfkPf+gLkHfkage8Eidzs50uUzQzSXiwMHt+nQnTuaUDcm0jdulncGP/YiYwLKcZ1Ja9rnzCJszjroeuDldYc9yVZQeb+1VsiCO5yWZkl+G/gzMhPlOjz/C/nDXm+MtsZ6O2s+1zFqXyNxRt25dOHxPR4OPzmsHy+9hkI",
+  "zip": "releases/appapi-gnu-1.1.13.zip",
+  "sha256": "ced89d0225e8dfd1e873b7d8a0c5619216e75b0c070f274fc62b738e8afe1543",
+  "signature": "nz1n//lf5hXSwNDo7RuJyutVZWgqGRHLGZjnYZ5JkvRW2mq7VDcxT/a5MHQg8TjYpnk5GbAz4d8eNb6u39l/ZZc1+EGZ7KrF28SpB3T8/v8NWq/H2TRvLWNHzGxPwMTA40putJKQEvpSiWqlXEmhEO4wXGr87leWDojYjxktIjSyNEJ9GBY++AhDCEoiwtyEIlRBwqaxo1VZfwabMYXyHSpyHCiZpapz6dfQGptiZnXMdiu2w2RcbFWYzfXDN/ElwFQ/15f/Poophi8ZEd4Njl3vjud+Tunek4zcXR4ZGLja7Nufkh3Z43rymLIs8TJpBLZ2qBHj3MVUa7qR8LUFL9NF0DJoYeQN9ioRvWg1llCOKtxNfUNJX8KHWRgq7y2zKAYNUYJBJHcVHV/ScJI/YiHPf/P44VvOAvbxUU6igzb83a3Xn/tCss+fpmcQT2piPDaRxxp23V4YEcye6CcpHVSO17sU6nPH1JNH6ZjEiTfRBAjlyBYAZ6PqHeUbjY7L",
   "min_php": "7.0",
-  "notes": "메뉴설정에 없는 게시판을 앱의 '그 밖의 게시판'으로(관리 화면에서 끌 수 있음), 모바일 주소(m.) 링크도 같은 사이트로"
+  "notes": "번호만 올림(다른 엔진용 모듈과 같은 번호)"
 }
