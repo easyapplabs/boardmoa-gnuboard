@@ -1,9 +1,9 @@
 {
-  "version": "1.1.18",
+  "version": "1.1.19",
   "date": "2026-11-07",
-  "zip": "releases/appapi-gnu-1.1.18.zip",
-  "sha256": "4c54eb7bb8532f8d7c95d5830f41f3608e3ef002e0a7a6855cb15a1f322a8e5f",
-  "signature": "N+QhEqyhjQePDb24CQebJuSxD06FYHQX3W0JyoF+FbmzULLj7/trdffXiKy/Nm1xA4uFUEsDdGTm0bi0Rpg04Z/MkEW8hq7bh0QXklHo+vGCWOEmu+ZD3GMLFw4sXAKkz3WGZjDZM8nbMt10Hue4UlUgj908YzOc4LYvDO6+AFDC3jUHLdKAmCKLfD4Wi5JdOD6IhomvSME8B14yT9J/cfOhDFCRCtmLk/IMtdU4FKnAhf8eQzBdHECzQo8CCRYVwcMzAmlA43QEIMLPwR9uhGXrEvnDw2N/DvP2qvny4nTogWe8SQ/mz0xetrayre5FbUXzPZx3YmLcZo1xtNijULzTrl1fbQRnWy2Y4Q+6r1f/0XEQBDqEGbO5joEAzf65JIz9Pv2z0B/+6uBKobdYNuL5DV6XNdHaGqVHNz2UChhtgRx+LcTSrd9GRvvLZto++W/LKx1MedNWokx9z1bQ3b6eiH7ts/ji1mwtoVqosN+T4vfEMQGFg0rhYom0TsKX",
+  "zip": "releases/appapi-gnu-1.1.19.zip",
+  "sha256": "fe527b94e8940355a3267671c7dcd2e08d164dfb8b6e7eac69d69ddc7810abd7",
+  "signature": "NLnIYogvSfyqPZXIIRHAYENlFeooLhhhIkCTE7VNlJi4UduCHLnLlhdPA42v0vvRomRTCTaErmHGrxLguZ4WtXHMrsJSMqYD1Re5O6Ohg+jwWjBYTLCfh/vVKjsLF4gmRO7fWWOpSqlDjpyBzcq6h3GMzlmmhTgkxuG8mh8z5Vct9RiYAieNrP/Jz8gVqQSiSub4Lj5mE15wY4VU4sgDo+GR6zUpUZeoBiT8JZhFeqg5zvZQBtoThglqgMZ33hLr0zXYe7f645l3Bzu2tLJw/Kh5JqXHpLhTtsPkLLZEF+bj/jl0sPtxpYurAxGFqKaZ1FoIddgNoAgnqiIspdQ4MPZ0BKkKXajxklOWfgZaWGpxGQ177T1g9rqW8WJ5qWcZsIfxeyiOdqQpIG/T9998KZFqKk1doZfue+TLvurdvxd6E2jV8PXPmABKTOw4uRmwPDcd//gZR9zS7DZz2Jc0kofLTdeg2MItFuPzYLpMbxCzI0nxibYu0DhicrpzRvy/",
   "min_php": "7.0",
-  "notes": "'그 밖의 게시판' 고르기를 다 만든 목록에서 처리(동작 같음). 다른 엔진은 번호만 올림"
+  "notes": "'그 밖의 게시판' 이름을 관리 화면에서 정함(비우면 앱 언어의 기본 이름)"
 }
