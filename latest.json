@@ -1,9 +1,9 @@
 {
-  "version": "1.1.19",
+  "version": "1.1.20",
   "date": "2026-11-07",
-  "zip": "releases/appapi-gnu-1.1.19.zip",
-  "sha256": "fe527b94e8940355a3267671c7dcd2e08d164dfb8b6e7eac69d69ddc7810abd7",
-  "signature": "NLnIYogvSfyqPZXIIRHAYENlFeooLhhhIkCTE7VNlJi4UduCHLnLlhdPA42v0vvRomRTCTaErmHGrxLguZ4WtXHMrsJSMqYD1Re5O6Ohg+jwWjBYTLCfh/vVKjsLF4gmRO7fWWOpSqlDjpyBzcq6h3GMzlmmhTgkxuG8mh8z5Vct9RiYAieNrP/Jz8gVqQSiSub4Lj5mE15wY4VU4sgDo+GR6zUpUZeoBiT8JZhFeqg5zvZQBtoThglqgMZ33hLr0zXYe7f645l3Bzu2tLJw/Kh5JqXHpLhTtsPkLLZEF+bj/jl0sPtxpYurAxGFqKaZ1FoIddgNoAgnqiIspdQ4MPZ0BKkKXajxklOWfgZaWGpxGQ177T1g9rqW8WJ5qWcZsIfxeyiOdqQpIG/T9998KZFqKk1doZfue+TLvurdvxd6E2jV8PXPmABKTOw4uRmwPDcd//gZR9zS7DZz2Jc0kofLTdeg2MItFuPzYLpMbxCzI0nxibYu0DhicrpzRvy/",
+  "zip": "releases/appapi-gnu-1.1.20.zip",
+  "sha256": "b44910f8424adc38db7587125ca24443e2fd10472703ae33054cf4ad4e575ace",
+  "signature": "u49Tp3bCeperWWhVVIPJnjom+55GMe9uRmYrdcT1rjxpHRE2t5UH2ZxeJQGItJmzfGhnQ7uKdvnIgO7mpcuyDk+zW3DcEI91dKEf/FEN37sdSJa9EXOAYQE2mvuAX3uqeroffcv53ZbqtBtJCO5ce/A5LMyAQxRN3QXZrAZl7+KUrhzCrZvA5RZF2eaYXSOb3+dgR8BCwa8kkQGMsMCv1KWLw7WAxaI2dWV+Ehpw4Jt5M30CJSWAZnrNY1zKNeisUd9H690v5q1kbWkfUzKbu+oeIKgOmrRJq6p4EMsOnd80KhWi28gjYhRTzoh5sZTND2PW+BRzrm2qCvFgrERkNIkOnElGEJqt5wItd1dTg8QrRTc2ngKcoXb7i8OA64Qj/tavGsgFKyKp2tIsHKKY4dfBZbBAaOO6NaL2oURgmEGMQUNHRtrWrnaOgrwTBt/id8ErdivqaBElzc+AuZ3gWPcGYSwCihfkNucnrx8aYOpSoK8nO+xldjMjX6DOtQUp",
   "min_php": "7.0",
-  "notes": "'그 밖의 게시판' 이름을 관리 화면에서 정함(비우면 앱 언어의 기본 이름)"
+  "notes": "추천·비추천·스크랩 단추를 웹 스킨과 같게, 비회원에게 추천 수, 자기 글 추천, 추천 뒤 응답 고침"
 }
