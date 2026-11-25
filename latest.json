@@ -5,5 +5,5 @@
   "sha256": "e11e74a3b4d69930368299b427defe7f922eeceb021af9111e4b02ba37954372",
   "signature": "tkTeWuH7wevDZWn4pi32cmZ8+NnvdQcapuqBPDMjSvGzfmcL1XFneghmArgD83njo0BinrLGsCJZD0aMTZJYwv5VyYhWiCBFoqjJF66Gi9hkQInZIk5mcWkA8j9u1SeWom6NhqZJkzel7AhqoE33Pucu63+eWJS1uQzCUtE89HbGM7Vit0NNnFrEK7Oydq+7SdaezaM0bbewdEyQRVxy86Ydj/UJInkIKBCe0x+CTkz/NdUQc+rtJZPHkzSWHAo11vHefHITQqxADsm6s7V1anCrupA5+E4seOgy4M5BQLKZsDp4/7PoC1Y5y8zJsUVBGFiYPLoDitHNZw2TxOIPNNSZWjVYcSVDhIHlxNHmZwhHj90x/Z4Q053wwlM/hwv+wIk3zARda8NWgD0o7QbqU2v21UNiN3eOd1qoU3zO6mqXGegk0UK0ITIxesB8SC/5iV9s8HC05+ZJ663U6iyAgIlCCqZfvyB1QRYL/HOzmJoZeI9hCeGidO7IjQ8kx40F",
   "min_php": "7.0",
-  "notes": "PHP 경고·알림을 앱 응답에 찍지 않음(경고를 화면에 표시하는 서버에서 앱 화면에 경고 글이 보이던 것)"
+  "notes": "앱 화면 표시 개선"
 }
